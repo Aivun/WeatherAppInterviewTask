@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84e2f9ac50b18140ae94329baa2fd86, type: 3}
+  m_Name: CodesDatabase
+  m_EditorClassIdentifier: 
+  Codes:
+  - Code: 0
+    Text: Clear Sky
+  - Code: 1
+    Text: Mainly Clear
+  - Code: 2
+    Text: Partly Cloudy
+  - Code: 3
+    Text: Overcast
+  - Code: 45
+    Text: Fog
+  - Code: 48
+    Text: Depositing Rime Fog
+  - Code: 51
+    Text: Light Drizzle
+  - Code: 53
+    Text: Moderate Drizzle
+  - Code: 55
+    Text: Dense Drizzle
+  - Code: 56
+    Text: Light Freezing Drizzle
+  - Code: 57
+    Text: Dense Freezing Drizzle
+  - Code: 61
+    Text: Slight Rain
+  - Code: 63
+    Text: Moderate Rain
+  - Code: 65
+    Text: Heavy Rain
+  - Code: 66
+    Text: Light Freezing Rain
+  - Code: 67
+    Text: Heavy Freezing Rain
+  - Code: 71
+    Text: Slight Snow Fall
+  - Code: 73
+    Text: Moderate Snow Fall
+  - Code: 75
+    Text: Heavy Snow Fall
+  - Code: 77
+    Text: Snow Grains
+  - Code: 80
+    Text: Slight Rain Showers
+  - Code: 81
+    Text: Moderate Rain Showers
+  - Code: 82
+    Text: Violent Rain Showers
+  - Code: 85
+    Text: Slight Snow Showers
+  - Code: 86
+    Text: Heavy Snow Showers
+  - Code: 95
+    Text: Thunderstorm
+  - Code: 96
+    Text: Thunderstorm w/ Slight Hail
+  - Code: 99
+    Text: Thunderstorm w/ Heavy Hail
